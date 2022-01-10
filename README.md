@@ -32,7 +32,7 @@ print("{:.2f}".format(val))
 ## Input
 ![norm1](./input.jpg)
 ## Output
-![output](PVD.JPG)
+![PVD](https://user-images.githubusercontent.com/93901857/148743804-ecf8eac6-9727-4060-8acf-e295a00c1668.jpg)
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
